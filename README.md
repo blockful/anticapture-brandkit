@@ -14,3 +14,25 @@
 | **Tangerine**  | <p align="center"> <img src="/logos/full-logo/full-logo-tangerine.png" width="200">  <br>   [svg](logos/compact-logo/compact-logo-black.png) / [png](logos/compact-logo/compact-logo-black.png) </p>  | <p align="center"> <img src="/logos/compact-logo/compact-logo-tangerine.png" width="100"> <br>  [svg](logos/compact-logo/compact-logo-black.png) / [png](logos/compact-logo/compact-logo-black.png) </p> | 
 | **Black**  | <p align="center"> <img src="/logos/full-logo/full-logo-black.png" width="200">  <br>   [svg](logos/compact-logo/compact-logo-black.png) / [png](logos/compact-logo/compact-logo-black.png) </p>  | <p align="center"> <img src="/logos/compact-logo/compact-logo-black.png" width="100"> <br>  [svg](logos/compact-logo/compact-logo-black.png) / [png](logos/compact-logo/compact-logo-black.png) </p> | 
 | **White**  | <p align="center"> <img src="/logos/full-logo/full-logo-white.png" width="200">  <br>   [svg](logos/compact-logo/compact-logo-black.png) / [png](logos/compact-logo/compact-logo-black.png) </p>  | <p align="center"> <img src="/logos/compact-logo/compact-logo-white.png" width="100"> <br>  [svg](logos/compact-logo/compact-logo-black.png) / [png](logos/compact-logo/compact-logo-black.png) </p> | 
+<br>
+
+➡️ Usage
+- Ensure strong contrast between the logo and the background to keep it easily visible and accessible in any context.
+- To maintain clarity and impact, always provide enough clear space around the logo. Use the minimum recommended spacing on all sides.
+  
+|    Good constrast example   |      X = 1/3 of the logo’s height              |
+|------------|-----------------------------------------------------------------|
+| <img src="/logos/full-logo/full-logo-tangerine.png" width="200">   | <img src="/logos/full-logo/full-logo-tangerine.png" width="200"> |
+| <img src="/logos/full-logo/full-logo-tangerine.png" width="200">   | <img src="/logos/full-logo/full-logo-tangerine.png" width="200"> |
+
+<br>
+
+## Palette
+Tangerine, Black, and White are Anticapture’s signature colors. They can be used as both background and foreground elements. Charcoal is mainly reserved for backgrounds and typography.
+
+| Color      | Swatch                                               | Hex Code  |
+|------------|------------------------------------------------------|-----------|
+| Tangerine  | ![#EC762E](https://placehold.co/20x20/EC762E/EC762E) | `#EC762E` |
+| Black      | ![#09090B](https://placehold.co/20x20/09090B/09090B) | `#09090B` |
+| Charcoal   | ![#18181B](https://placehold.co/20x20/18181B/18181B) | `#18181B` |
+| White      | ![#FAFAFA](https://placehold.co/20x20/FAFAFA/FAFAFA) | `#FAFAFA` |
