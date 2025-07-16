@@ -36,3 +36,22 @@ Tangerine, Black, and White are Anticapture’s signature colors. They can be us
 | Black      | ![#09090B](https://placehold.co/20x20/09090B/09090B) | `#09090B` |
 | Charcoal   | ![#18181B](https://placehold.co/20x20/18181B/18181B) | `#18181B` |
 | White      | ![#FAFAFA](https://placehold.co/20x20/FAFAFA/FAFAFA) | `#FAFAFA` |
+
+
+
+<br>
+
+## Typography
+The chosen typefaces support Anticapture’s visual identity with clarity and flexibility, offering both legibility and character.
+
+| Font      | Example                                               | Usage  | Download |
+|------------|------------------------------------------------------|-----------|-----------|
+| Inter        | ![Inter](https://placehold.co/400x60/transparent/FAFAFA?font=Inter&text=The%20quick%20brown%20fox%20jumps%20over%20the%20lazy%20dog) | Body and headlines | <p align="center"> [↗️](https://fonts.google.com/specimen/Inter) |
+| Roboto Mono  | ![Roboto Mono](https://placehold.co/400x60/transparent/FAFAFA?font=roboto-mono&text=The%20quick%20brown%20fox%20jumps%20over%20the%20lazy%20dog)  | Titles and headlines | <p align="center"> [↗️](https://fonts.google.com/specimen/Roboto+Mono) |
+
+
+<br>
+
+## Iconography
+Anticapture’s icons follow a custom pixel-art style that reflects the brand’s tech-forward identity. They are clear, minimal, and optimized for small sizes.
+
