@@ -22,8 +22,8 @@
   
 |    Good constrast example   |      X = 1/3 of the logo’s height              |
 |------------|-----------------------------------------------------------------|
-| <img src="/logos/full-logo/full-logo-tangerine.png" width="200">   | <img src="/logos/full-logo/full-logo-tangerine.png" width="200"> |
-| <img src="/logos/full-logo/full-logo-tangerine.png" width="200">   | <img src="/logos/full-logo/full-logo-tangerine.png" width="200"> |
+| <img src="https://i.imgur.com/DOqtmVn.png" width="200">   | <p align="center">  <img src="https://i.imgur.com/RVSo3tm.png" width="200"> |
+| <img src="https://i.imgur.com/EMO1AFf.png" width="200">   | <p align="center">  <img src="https://i.imgur.com/IVEeaHn.png" width="120"> |
 
 <br>
 
@@ -44,14 +44,16 @@ Tangerine, Black, and White are Anticapture’s signature colors. They can be us
 ## Typography
 The chosen typefaces support Anticapture’s visual identity with clarity and flexibility, offering both legibility and character.
 
-| Font      | Example                                               | Usage  | Download |
-|------------|------------------------------------------------------|-----------|-----------|
-| Inter        | ![Inter](https://placehold.co/400x60/transparent/FAFAFA?font=Inter&text=The%20quick%20brown%20fox%20jumps%20over%20the%20lazy%20dog) | Body and headlines | <p align="center"> [↗️](https://fonts.google.com/specimen/Inter) |
-| Roboto Mono  | ![Roboto Mono](https://placehold.co/400x60/transparent/FAFAFA?font=roboto-mono&text=The%20quick%20brown%20fox%20jumps%20over%20the%20lazy%20dog)  | Titles and headlines | <p align="center"> [↗️](https://fonts.google.com/specimen/Roboto+Mono) |
+| Font         | Usage                   | Example                                          |  Download |
+|--------------|-------------------------|---------------------------------------           |-----------|
+| Inter        | Body and headlines      | ![Inter](https://i.imgur.com/AuRwUXC.png)        |  <p align="center"> [↗️](https://fonts.google.com/specimen/Inter) |
+| Roboto Mono  |  Titles and headlines   | ![Roboto Mono](https://i.imgur.com/vHHOLm1.png)  | <p align="center"> [↗️](https://fonts.google.com/specimen/Roboto+Mono) |
 
 
 <br>
 
 ## Iconography
 Anticapture’s icons follow a custom pixel-art style that reflects the brand’s tech-forward identity. They are clear, minimal, and optimized for small sizes.
+<br>
+ <img src="/logos/iconography/aim.svg" width="48">
 
