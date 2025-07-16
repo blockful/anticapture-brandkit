@@ -11,9 +11,9 @@
 
 | Color          | Full Logo (Primary)                                                 | Compact                                     (Secondary)     | 
 | -------------- | --------------------------------------------------------------------| ------------------------------------------------------------------------|
-| **Tangerine**  | <p align="center"> <img src="/logos/full-logo/full-logo-tangerine.png" width="200">  <br>   [svg](logos/compact-logo/compact-logo-black.png) / [png](logos/compact-logo/compact-logo-black.png) </p>  | <p align="center"> <img src="/logos/compact-logo/compact-logo-tangerine.png" width="100"> <br>  [svg](logos/compact-logo/compact-logo-black.png) / [png](logos/compact-logo/compact-logo-black.png) </p> | 
-| **Black**  | <p align="center"> <img src="/logos/full-logo/full-logo-black.png" width="200">  <br>   [svg](logos/compact-logo/compact-logo-black.png) / [png](logos/compact-logo/compact-logo-black.png) </p>  | <p align="center"> <img src="/logos/compact-logo/compact-logo-black.png" width="100"> <br>  [svg](logos/compact-logo/compact-logo-black.png) / [png](logos/compact-logo/compact-logo-black.png) </p> | 
-| **White**  | <p align="center"> <img src="/logos/full-logo/full-logo-white.png" width="200">  <br>   [svg](logos/compact-logo/compact-logo-black.png) / [png](logos/compact-logo/compact-logo-black.png) </p>  | <p align="center"> <img src="/logos/compact-logo/compact-logo-white.png" width="100"> <br>  [svg](logos/compact-logo/compact-logo-black.png) / [png](logos/compact-logo/compact-logo-black.png) </p> | 
+| **Tangerine**  | <p align="center"> <img src="/logos/full-logo/full-logo-tangerine.png" width="200">  <br>   [svg](logos/compact-logo/compact-logo-black.svg) / [png](logos/compact-logo/compact-logo-black.png) </p>  | <p align="center"> <img src="/logos/compact-logo/compact-logo-tangerine.png" width="100"> <br>  [svg](logos/compact-logo/compact-logo-black.svg) / [png](logos/compact-logo/compact-logo-black.png) </p> | 
+| **Black**  | <p align="center"> <img src="/logos/full-logo/full-logo-black.png" width="200">  <br>   [svg](logos/compact-logo/compact-logo-black.svg) / [png](logos/compact-logo/compact-logo-black.png) </p>  | <p align="center"> <img src="/logos/compact-logo/compact-logo-black.png" width="100"> <br>  [svg](logos/compact-logo/compact-logo-black.svg) / [png](logos/compact-logo/compact-logo-black.png) </p> | 
+| **White**  | <p align="center"> <img src="/logos/full-logo/full-logo-white.png" width="200">  <br>   [svg](logos/compact-logo/compact-logo-black.svg) / [png](logos/compact-logo/compact-logo-black.png) </p>  | <p align="center"> <img src="/logos/compact-logo/compact-logo-white.png" width="100"> <br>  [svg](logos/compact-logo/compact-logo-black.svg) / [png](logos/compact-logo/compact-logo-black.png) </p> | 
 <br>
 
 ➡️ Usage
@@ -55,5 +55,7 @@ The chosen typefaces support Anticapture’s visual identity with clarity and fl
 ## Iconography
 Anticapture’s icons follow a custom pixel-art style that reflects the brand’s tech-forward identity. They are clear, minimal, and optimized for small sizes.
 <br>
- <img src="/logos/iconography/aim.svg" width="48">
+<br>
+| <img src="/iconography/aim.svg" width="20"> |  <img src="/iconography/alien-monster.svg" width="20"> |  <img src="/iconography/bell.svg" width="20"> | <img src="/iconography/bell.svg" width="20"> |  <img src="/iconography/book.svg" width="20">| <img src="/iconography/chart.svg" width="20"> |   <img src="/iconography/code-brackets.svg" width="20"> |  <img src="/iconography/code.svg" width="20"> |   <img src="/iconography/heart.svg" width="20"> |  <img src="/iconography/palette.svg" width="20"> | <img src="/iconography/question-mark.svg" width="20"> | <img src="/iconography/shield.svg" width="20"> | 
+|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------| ----------------------------| ----------------------------|  ----------------------------| ----------------------------|----------------------------| ----------------------------|
 
